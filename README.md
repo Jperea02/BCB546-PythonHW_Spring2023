@@ -7,4 +7,3 @@
 * penguins_mass.csv: .csv file containing containing mass of penguin species
 * penguins_mass_cytb.csv: .csv file of "penguins_mass" DataFrame with GC content and molecular weight for each penguin species
 * sequence_translate.py: instructions for this assignment 
-* visualization.png: .png of the "Mass of Penguin Species" bar plot, as Git is unable to preview the barplot in the .ipynb file due to visualization using Vega; when code is run in Jupyter, the code does output the bar plot
